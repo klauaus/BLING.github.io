@@ -1,4 +1,4 @@
-# Software Development Kit for ctrlX AUTOMATION
+# BLING (Bosch Linux Incubation Group)
 
 This is the software development kit (SDK) for [ctrlX AUTOMATION](https://www.ctrlx-automation.com). It can be used to program Apps for ctrlX CORE. 
 Browse through the manual via: <https://boschrexroth.github.io/ctrlx-automation-sdk>
